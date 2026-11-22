@@ -43,8 +43,11 @@ Enabled the Ethernet adapter through Windows Network Connections.
 - Always verify the original problem is resolved before closing a ticket.
 
 ## Evidence
-![Disabled Ethernet Adapter](../screenshots/INC-001-Disabled-Ethernet.png)
 
+### Initial Network Configuration — No Active IP Address
+![No IP Configuration](../screenshots/INC-001-No-IP-Configuration.png)
+
+### Restored Network Configuration
 ![Restored IP Configuration](../screenshots/INC-001-Restored-IP-Configuration.png)
 
 ## Outcome
